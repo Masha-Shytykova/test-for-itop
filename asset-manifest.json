@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/test-for-itop/static/css/main.a09d30fe.chunk.css",
+    "main.js": "/test-for-itop/static/js/main.5769fd74.chunk.js",
+    "main.js.map": "/test-for-itop/static/js/main.5769fd74.chunk.js.map",
+    "runtime-main.js": "/test-for-itop/static/js/runtime-main.ed22eaa7.js",
+    "runtime-main.js.map": "/test-for-itop/static/js/runtime-main.ed22eaa7.js.map",
+    "static/js/2.eb22ed19.chunk.js": "/test-for-itop/static/js/2.eb22ed19.chunk.js",
+    "static/js/2.eb22ed19.chunk.js.map": "/test-for-itop/static/js/2.eb22ed19.chunk.js.map",
+    "index.html": "/test-for-itop/index.html",
+    "static/css/main.a09d30fe.chunk.css.map": "/test-for-itop/static/css/main.a09d30fe.chunk.css.map",
+    "static/js/2.eb22ed19.chunk.js.LICENSE.txt": "/test-for-itop/static/js/2.eb22ed19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed22eaa7.js",
+    "static/js/2.eb22ed19.chunk.js",
+    "static/css/main.a09d30fe.chunk.css",
+    "static/js/main.5769fd74.chunk.js"
+  ]
+}
